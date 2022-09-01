@@ -1,1 +1,1 @@
-# CSE115
+# CSE115 Course
