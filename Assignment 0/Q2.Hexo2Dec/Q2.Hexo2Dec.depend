@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618063369 source:h:\study material\cse115\mona\lab\assignment 1\q2.hexo2dec\main.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+
